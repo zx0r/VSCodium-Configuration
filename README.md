@@ -3,7 +3,7 @@
 
 <!-- Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=💮+%7C+VSCodium+Configuration+for+Developers+%7C+💮" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=💮+%7C+VSCodium+Configuration+%7C+💮" alt="Typing SVG" />
 </div>
 
 <!-- Neon Line Separator  -->
