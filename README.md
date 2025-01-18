@@ -11,9 +11,9 @@
 
 <!-- ![Workspace](https://raw.githubusercontent.com/zx0r/hyprdots-gentoo/main/assets/workspace.jpg)  -->
 
-![Workspase-1](https://github.com/zx0r/hyprdots-gentoo/blob/main/.github/assets/screen-1.jpg)
-![Workspase-2](https://github.com/zx0r/hyprdots-gentoo/blob/main/.github/assets/screen-2.jpg)
-![Workspase-3](https://github.com/zx0r/hyprdots-gentoo/blob/main/.github/assets/screen-3.jpg)
+![Workspase-1](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/Screen-1.jpg)
+![Workspase-2](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/Screen-2.jpg)
+![Workspase-3](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/Screen-3.jpg)
 
 <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
