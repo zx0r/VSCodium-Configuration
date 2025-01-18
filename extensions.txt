@@ -1,0 +1,80 @@
+# VSCodium Extensions List
+
+## Transparent
+illixion.vscode-vibrancy-continued  # Acrylic.Native method of Vibrancy Effect.
+
+## Git
+eamodio.gitlens                     # GitLens for Git integration and enhanced Git features
+gitkraken.gitlens                   # Git supercharged - Enhances Git capabilities
+
+## AI
+sourcegraph.cody-ai                 # AI Coding Assistant AI-powered autocomplete and chat
+
+## Themes
+endormi.2077-theme                  # Endormi.2077-theme Color Theme CyberPunk 2077
+max-ss.cyberpunk                    # Color Theme CyberPunk 2077 -> `Activate SCARLET protocol(beta)`
+Letgamer.Sweet-vscode-Icons         # File Icons for custom file icons in the explorer
+miguelsolorio.fluent-icons           # Product Icon Theme
+castrogusttavo.Symbols              # File Explorer Icons
+
+## Code Formatting & Linting
+esbenp.prettier-vscode              # Prettier for code formatting
+oderwat.indent-rainbow              # Rainbow Brackets for colorful bracket matching
+aaron-bond.better-comments          # Better Comments for improved comment highlighting
+
+## Testing & Debugging
+hbenl.vscode-test-explorer          # Test Explorer for running and managing tests
+usernamehw.errorlens                # Error Lens for inline error highlighting
+
+## Environment & Configuration
+mikestead.dotenv                    # DotENV for .env file syntax highlighting
+mrmlnc.vscode-apache                # Apache Configuration for Apache config file support
+mrmlnc.vscode-duplicate             # Duplicate Action for duplicating files and directories
+
+## API & Development Tools
+rangav.vscode-thunder-client        # REST API client for VS Code
+yandeu.five-server                  # Live reload for static and dynamic pages
+
+## General Linting and Formatting
+editorconfig.editorconfig           # EditorConfig for consistent coding styles
+streetsidesoftware.code-spell-checker # Spell checking for code
+
+## Python
+ms-python.python                    # Python language server, linting, and debugging
+ms-python.isort                     # Import sorting for Python
+ms-python.black-formatter           # Auto-formatting with Black
+
+## JavaScript/TypeScript
+dbaeumer.vscode-eslint              # ESLint for JavaScript/TypeScript linting
+ms-vscode.vscode-typescript-next    # TypeScript language server
+
+## Rust
+rust-lang.rust-analyzer             # Rust language server and linting
+
+## HTML/CSS
+ecmel.vscode-html-css               # HTML/CSS language server and linting
+formulahendry.auto-close-tag        # Auto-close HTML tags
+formulahendry.auto-rename-tag       # Auto-rename HTML tags
+vincaslt.highlight-matching-tag     # Highlight Matching Tag for HTML/XML tag highlighting
+bradlc.vscode-tailwindcss           # Tailwind CSS IntelliSense for Tailwind CSS
+
+## Markdown
+yzhang.markdown-all-in-one          # Markdown language server and linting
+davidanson.vscode-markdownlint      # Markdown linting
+
+## Docker
+ms-azuretools.vscode-docker         # Docker language server and linting
+
+## Shell Scripting
+timonwong.shellcheck                # Shell script linting
+mads-hartmann.bash-ide-vscode       # Bash language server
+
+## SQL
+mtxr.sqltools                       # SQL language server and linting
+mtxr.sqltools-driver-pg             # PostgreSQL driver for SQLTools
+
+## YAML
+redhat.vscode-yaml                  # YAML language server and linting
+
+## XML
+redhat.vscode-xml                   # XML language server and linting

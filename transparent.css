@@ -1,0 +1,20 @@
+/* Make the entire editor transparent */
+.monaco-workbench {
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  /* Adjust the alpha value (0.7) for transparency */
+}
+
+/* Make the sidebar transparent */
+.sidebar {
+  background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+/* Make the editor area transparent */
+.monaco-editor {
+  background-color: transparent !important;
+}
+
+/* Make the status bar transparent */
+.status-bar {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
