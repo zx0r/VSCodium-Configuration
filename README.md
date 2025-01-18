@@ -68,6 +68,8 @@ vscodium-config/
 ```bash
    chmod u+x configure-vscodium.sh
    ./configure-vscodium.sh
+
+Your system is now a high-performance cyber-deck, ready to hack the matrix! 🧨
 ```
 3. Open VSCodium and enjoy!
 ```bash
@@ -246,8 +248,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-Your system is now a high-performance cyber-deck, ready to hack the matrix! 🧨
 
   <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
