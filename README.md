@@ -56,7 +56,11 @@ Is a cross-platform solution designed to align with the **Zero Trust Security Pa
 ###### 📦 One-Command Installation
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/zx0r/VSCodium-Configuration/main/bootstrap.sh)"
+# 🚧 This project is in its final polishing phase — the scripts are stable and functional. 
+# 🚧 Automatic installation takes a little more time, using the bootstrap.sh script takes time.
+# 🚧 Look for working scripts in the folder of the same name 
+
+⚠️ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/zx0r/VSCodium-Configuration/main/bootstrap.sh)"
 ```
 
 🎉 After installation, VSCodium will be ready to use with full **GitHub Copilot** functionality and **Zero Trust Security** configuration applied.
