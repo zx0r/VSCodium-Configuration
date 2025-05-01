@@ -13,7 +13,7 @@
 
 ![Workspase-2](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/screen-b.png)
 ![Workspase-1](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/screen-a.png)
-![Workspase-3](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/screen-c.jpg)
+![Workspase-3](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/screen-c.png)
 
 <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
