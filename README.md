@@ -92,24 +92,24 @@ ZeroTrustCodium/
 **`settings.json`**
 ```json
 {
-    "telemetry.telemetryLevel"                      : "off",        // Completely disable telemetry
-    "telemetry.enableErrorTelemetry"                : false,        // Disable error telemetry
-    "aws.telemetry"                                 : false,        // Disable AWS telemetry
-    "azure.telemetry.enabled"                       : false,        // Disable Azure telemetry
-    "redhat.telemetry.enabled"                      : false,        // Disable Red Hat telemetry
-    "docker.telemetry.enabled"                      : false,        // Disable Docker telemetry
-    "git.autofetch"                                 : false,        // Disable automatic fetching of Git repositories
-    "git.enableTelemetry"                           : false,        // Disable Git telemetry
-    "github.telemetry.enabled"                      : false,        // Disable GitHub telemetry
-    "git.autoRepositoryDetection"                   : false,        // Disable automatic fetching of remote repositories
-    "gitlens.advanced.telemetry.enabled"            : false,        // Disable GitLens telemetry
-    "github.copilot.advanced.telemetry.enabled"     : false,        // Disable Copilot telemetry
-    "python.telemetry.enabled"                      : false,        // Disable Python telemetry
-    "python.analysis.logLevel"                      : "Error",      // Disable Python language server telemetry
-    "typescript.tsserver.log"                       : "off",        // Disable TypeScript server telemetry
-    "typescript.tsserver.enableTelemetry"           : false,        // Disable TypeScript server telemetry
-    "typescript.suggestionActions.enabled"          : false,        // Disable TypeScript suggestions
-    "javascript.suggestionActions.enabled"          : false,        // Disable JavaScript suggestions
+    "telemetry.telemetryLevel"                      : "off",        
+    "telemetry.enableErrorTelemetry"                : false,        
+    "aws.telemetry"                                 : false,        
+    "azure.telemetry.enabled"                       : false,        
+    "redhat.telemetry.enabled"                      : false,        
+    "docker.telemetry.enabled"                      : false,        
+    "git.autofetch"                                 : false,        
+    "git.enableTelemetry"                           : false,        
+    "github.telemetry.enabled"                      : false,        
+    "git.autoRepositoryDetection"                   : false,       
+    "gitlens.advanced.telemetry.enabled"            : false,        
+    "github.copilot.advanced.telemetry.enabled"     : false,        
+    "python.telemetry.enabled"                      : false,       
+    "python.analysis.logLevel"                      : "Error",      
+    "typescript.tsserver.log"                       : "off",        
+    "typescript.tsserver.enableTelemetry"           : false,        
+    "typescript.suggestionActions.enabled"          : false,        
+    "javascript.suggestionActions.enabled"          : false,        
     // ... and other 4000+ lines
 }
 ```
