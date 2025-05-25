@@ -25,28 +25,42 @@
 <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-### 🧬 ZeroTrustCodium: Secure and Automated IDE Setup
 
-This project provides a curated setup for [VSCodium](https://vscodium.com/), the open-source build of Visual Studio Code.
-Is a cross-platform solution designed to align with the **Zero Trust Security Paradigm** for development environments. It provides a fully automated approach to install, configure, and secure **VSCodium**, ensuring a **telemetry-free**, **privacy-first**, and **developer-optimized** experience. The project also enables full functionality of **GitHub Copilot** and **GitHub Copilot Chat**, overcoming VSCodium's lack of native support for these tools.
 
+
+
+
+Get Started
+
+
+### 🧬 ZeroTrustIDE: Security as Design. Boosted by Code.
+
+A privacy-first, telemetry-free development environment that puts security at the core — not as an afterthought.
+Preconfigured for GitHub Copilot and VSCodium, ZeroTrustIDE simplifies developer onboarding while enforcing Zero Trust principles.
+No root. No tracking. Just code — faster, safer, cleaner.
 
 #### 📌 Disclaimer
 
-**Proof of Concept** (PoC) for educational purposes.It demonstrates the feasibility of automating the configuration of VSCodium and GitHub Copilot in alignment.
-
+Secure and Automated IDE Setup
+It demonstrates the feasibility of automating the configuration of VSCodium and GitHub Copilot in alignment(for educational purposes).
 > **Note**: While this solution is intended to be cross-platform, it has been tested exclusively on macOS.
 
 ---
 
-###### 🔋 **Why ZeroTrustCodium?**
+###### 🔋 **Why ZeroTrustIDE?**
 
-- **GitHub Copilot Integration**: Automates installation and configuration of Copilot and Copilot Chat.
-- **macOS SIP Compliance**: Installs VSCodium in `$HOME/Applications`, preserving System Integrity Protection (SIP).
-- **Developer Efficiency**: Simplifies onboarding with pre-configured settings, extensions, and keybindings.
+Because privacy and performance don’t have to be mutually exclusive.
+Because your dev environment should respect your system.
+Because trust is earned — not assumed.
+
+###### Features
+
 - **Privacy**: Disables all telemetry and trackers, ensuring compliance with modern privacy standards.
-- **Security**: Implements the principle of least privilege, avoiding administrative permissions and system-wide changes.
-- **Cross-Platform Development**
+- **Security Model**: Operates on the principle of least privilege. No system-wide changes. No sudo required.
+- **Cross-Platform**: Works across macOS, Linux, and Windows with unified configurations.
+- **macOS SIP Compliance**: Installs VSCodium to ~/Applications — no System Integrity Protection violations.
+- **Developer Efficiency**: Ships with curated extensions, keybindings, and settings for rapid productivity.
+- **GitHub Copilot Integration**: Seamless auto-setup of Copilot & Copilot Chat for both VSCode and VSCodium.
 
 ---
 
