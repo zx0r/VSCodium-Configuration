@@ -293,10 +293,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
   <!-- Neon Line Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Header Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=💮+%7C+ZeroTrustIDE:+Configuration+for+Developers+%7C+💮)](https://git.io/typing-svg)
 
   <!-- Neon Line Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
