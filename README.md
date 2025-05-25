@@ -1,11 +1,8 @@
-  <!-- Neon Line Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+### 🧬 ZeroTrustIDE: Security as Design. Boosted by Code.
 
-<!-- Header Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=💮+%7C+ZeroTrustIDE:+Configuration+for+Developers+%7C+💮)](https://git.io/typing-svg)
-
-<!-- Neon Line Separator  -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+A privacy-first, telemetry-free development environment that puts security at the core — not as an afterthought.
+Preconfigured for GitHub Copilot and VSCodium, ZeroTrustIDE simplifies developer onboarding while enforcing Zero Trust principles.
+No root. No tracking. Just code — faster, safer, cleaner.
 
 <!-- ![Workspace](https://raw.githubusercontent.com/zx0r/hyprdots-gentoo/main/assets/workspace.jpg)  -->
 
@@ -16,20 +13,11 @@
 <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+<!-- Header Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=💮+%7C+ZeroTrustIDE:+Configuration+for+Developers+%7C+💮)](https://git.io/typing-svg)
 
-<!-- Neon Line Separator -->
+<!-- Neon Line Separator  -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
-### 🧬 ZeroTrustIDE: Security as Design. Boosted by Code.
-
-A privacy-first, telemetry-free development environment that puts security at the core — not as an afterthought.
-Preconfigured for GitHub Copilot and VSCodium, ZeroTrustIDE simplifies developer onboarding while enforcing Zero Trust principles.
-No root. No tracking. Just code — faster, safer, cleaner.
 
 ---
 
