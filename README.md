@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <!-- Header Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=💮+%7C+VSCodium+Configuration+for+Developers+%7C+💮)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=💮+%7C+ZeroTrustIDE:+Configuration+for+Developers+%7C+💮)](https://git.io/typing-svg)
 
 <!-- Neon Line Separator  -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
@@ -25,35 +25,23 @@
 <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-
-
-
-
-
-Get Started
-
-
 ### 🧬 ZeroTrustIDE: Security as Design. Boosted by Code.
 
 A privacy-first, telemetry-free development environment that puts security at the core — not as an afterthought.
 Preconfigured for GitHub Copilot and VSCodium, ZeroTrustIDE simplifies developer onboarding while enforcing Zero Trust principles.
 No root. No tracking. Just code — faster, safer, cleaner.
 
-#### 📌 Disclaimer
-
-Secure and Automated IDE Setup
-It demonstrates the feasibility of automating the configuration of VSCodium and GitHub Copilot in alignment(for educational purposes).
-> **Note**: While this solution is intended to be cross-platform, it has been tested exclusively on macOS.
-
 ---
 
 ###### 🔋 **Why ZeroTrustIDE?**
 
-Because privacy and performance don’t have to be mutually exclusive.
-Because your dev environment should respect your system.
-Because trust is earned — not assumed.
+- Because privacy and performance don’t have to be mutually exclusive.
+- Because your dev environment should respect your system.
+- Because trust is earned — not assumed.
 
-###### Features
+---
+
+###### 📌 **Features**
 
 - **Privacy**: Disables all telemetry and trackers, ensuring compliance with modern privacy standards.
 - **Security Model**: Operates on the principle of least privilege. No system-wide changes. No sudo required.
@@ -62,6 +50,7 @@ Because trust is earned — not assumed.
 - **Developer Efficiency**: Ships with curated extensions, keybindings, and settings for rapid productivity.
 - **GitHub Copilot Integration**: Seamless auto-setup of Copilot & Copilot Chat for both VSCode and VSCodium.
 
+> **Note**: While this solution is intended to be cross-platform, it has been tested exclusively on macOS.
 ---
 
 ###### 📦 One-Command Installation
@@ -331,7 +320,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <!-- Header Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=💮+%7C+VSCodium+Configuration+for+Developers+%7C+💮)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=💮+%7C+ZeroTrustIDE:+Configuration+for+Developers+%7C+💮)](https://git.io/typing-svg)
 
   <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
