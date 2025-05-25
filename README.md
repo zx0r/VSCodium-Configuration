@@ -12,12 +12,12 @@
 
 ###### 📌 **Features**
 
-- **Privacy**: Disables all telemetry and trackers, ensuring compliance with modern privacy standards.
-- **Security Model**: Operates on the principle of least privilege. No system-wide changes. No sudo required.
-- **Cross-Platform**: Works across macOS, Linux, and Windows with unified configurations.
-- **macOS SIP Compliance**: Installs VSCodium to ~/Applications — no System Integrity Protection violations.
-- **Developer Efficiency**: Ships with curated extensions, keybindings, and settings for rapid productivity.
-- **GitHub Copilot Integration**: Seamless auto-setup of Copilot & Copilot Chat for both VSCode and VSCodium.
+- Privacy: Disables all telemetry and trackers, ensuring compliance with modern privacy standards.
+- Security Model: Operates on the principle of least privilege. No system-wide changes. No sudo required.
+- Cross-Platform: Works across macOS, Linux, and Windows with unified configurations.
+- macOS SIP Compliance: Installs VSCodium to ~/Applications — no System Integrity Protection violations.
+- Developer Efficiency: Ships with curated extensions, keybindings, and settings for rapid productivity.
+- GitHub Copilot Integration: Seamless auto-setup of Copilot & Copilot Chat for both VSCode and VSCodium.
 
 > **Note**: While this solution is intended to be cross-platform, it has been tested exclusively on macOS.
 
