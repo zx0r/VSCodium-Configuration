@@ -4,30 +4,11 @@ A privacy-first, telemetry-free development environment that puts security at th
 Preconfigured for GitHub Copilot and VSCodium, ZeroTrustIDE simplifies developer onboarding while enforcing Zero Trust principles.
 No root. No tracking. Just code — faster, safer, cleaner.
 
-<!-- ![Workspace](https://raw.githubusercontent.com/zx0r/hyprdots-gentoo/main/assets/workspace.jpg)  -->
-
-![Workspase-2](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/screen-b.png)
-![Workspase-1](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/screen-a.png)
-![Workspase-3](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/screen-c.png)
-
-<!-- Neon Line Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
-<!-- Header Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=💮+%7C+ZeroTrustIDE:+Configuration+for+Developers+%7C+💮)](https://git.io/typing-svg)
-
-<!-- Neon Line Separator  -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
----
-
 ###### 🔋 **Why ZeroTrustIDE?**
 
 - Because privacy and performance don’t have to be mutually exclusive.
 - Because your dev environment should respect your system.
 - Because trust is earned — not assumed.
-
----
 
 ###### 📌 **Features**
 
@@ -39,6 +20,13 @@ No root. No tracking. Just code — faster, safer, cleaner.
 - **GitHub Copilot Integration**: Seamless auto-setup of Copilot & Copilot Chat for both VSCode and VSCodium.
 
 > **Note**: While this solution is intended to be cross-platform, it has been tested exclusively on macOS.
+
+---
+
+![Workspase-2](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/screen-b.png)
+![Workspase-1](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/screen-a.png)
+![Workspase-3](https://github.com/zx0r/VSCodium-Configuration/blob/main/.github/assets/screen-c.png)
+
 ---
 
 ###### 📦 One-Command Installation
