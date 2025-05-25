@@ -41,7 +41,6 @@ Is a cross-platform solution designed to align with the **Zero Trust Security Pa
 
 ###### 🔋 **Why ZeroTrustCodium?**
 
-- **Automation**: Optimized for CI/CD pipelines and infrastructure-as-code workflows.
 - **GitHub Copilot Integration**: Automates installation and configuration of Copilot and Copilot Chat.
 - **macOS SIP Compliance**: Installs VSCodium in `$HOME/Applications`, preserving System Integrity Protection (SIP).
 - **Developer Efficiency**: Simplifies onboarding with pre-configured settings, extensions, and keybindings.
