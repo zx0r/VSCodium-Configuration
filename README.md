@@ -1,8 +1,8 @@
 ### 🧬 ZeroTrustIDE: Security as Design. Boosted by Code.
 
+- No root. No tracking. Just code - faster, safer, cleaner.
 - Privacy, telemetry-free development environment that puts security at the core.
 - Preconfigured for GitHub Copilot and VSCodium, simplifies developer onboarding.
-- No root. No tracking. Just code - faster, safer, cleaner.
 
 ###### 🔋 **Why ZeroTrustIDE?**
 
