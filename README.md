@@ -1,4 +1,4 @@
-### 🧬 VSCodium/VSCode: Security as Design. Boosted by Code.
+### 🧬 VSCodium/VSCode: Security as Design
 
 - No root. No tracking. Just code - faster, safer, cleaner.
 - Privacy, telemetry-free development environment that puts security at the core.
