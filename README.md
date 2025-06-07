@@ -1,19 +1,12 @@
-### 🧬 ZeroTrustIDE: Security as Design. Boosted by Code.
+### 🧬 VSCodium/VSCode: Security as Design. Boosted by Code.
 
 - No root. No tracking. Just code - faster, safer, cleaner.
 - Privacy, telemetry-free development environment that puts security at the core.
 - Preconfigured for GitHub Copilot and VSCodium, simplifies developer onboarding.
 
-###### 🔋 **Why ZeroTrustIDE?**
-
-- Because privacy and performance don’t have to be mutually exclusive.
-- Because your dev environment should respect your system.
-- Because trust is earned — not assumed.
-
 ###### 📌 **Features**
 
 - Privacy: Disables all telemetry and trackers, ensuring compliance with modern privacy standards.
-- Security Model: Operates on the principle of least privilege. No system-wide changes. No sudo required.
 - Cross-Platform: Works across macOS, Linux, and Windows with unified configurations.
 - macOS SIP Compliance: Installs VSCodium to ~/Applications — no System Integrity Protection violations.
 - Developer Efficiency: Ships with curated extensions, keybindings, and settings for rapid productivity.
